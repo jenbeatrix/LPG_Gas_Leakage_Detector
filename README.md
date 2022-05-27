@@ -3,7 +3,13 @@ The purpose of this project is to detect the presence of LPG leakage. Apart from
 
 Note: This is just a prototype.
 
-![LPG Detector 1](https://user-images.githubusercontent.com/82814920/170656488-2437a13a-6bbd-4a8b-abe7-fe1235226866.gif) ![LPG Detector 2](https://user-images.githubusercontent.com/82814920/170656716-bc823c09-0277-4e2f-ade0-5ca2b71d2c83.gif) ![LPG Detector 3](https://user-images.githubusercontent.com/82814920/170656844-7c0eb2e4-dba4-4259-958c-eb0872ad1c7d.gif)
+When the Gas Sensor senses the gas from the lighter (A gas leakage for instance but only demonstrated in a way that is not dangerous), the solenoid valve automatically closes or shuts down and a continuous alarm will trigger. The alarm won't stop until the owner prsesses the reset button.
+
+![LPG Detector 1](https://user-images.githubusercontent.com/82814920/170656488-2437a13a-6bbd-4a8b-abe7-fe1235226866.gif) ![LPG Detector 2](https://user-images.githubusercontent.com/82814920/170656716-bc823c09-0277-4e2f-ade0-5ca2b71d2c83.gif) 
+
+Also, the user or owner of the house receives a text indicating that an LPG Leakage has occured.
+
+![LPG Detector 3](https://user-images.githubusercontent.com/82814920/170656844-7c0eb2e4-dba4-4259-958c-eb0872ad1c7d.gif)
 
 
 
