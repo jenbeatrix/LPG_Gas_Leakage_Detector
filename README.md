@@ -9,7 +9,6 @@ Note: This is just a prototype.
 
 ![LPG Detector 2](https://user-images.githubusercontent.com/82814920/170650544-f93715ec-20ce-4f9f-981a-291bd1a4c9df.gif)
 
-![Uploading LPG Detector 3.gif…]()
 
 Reference: https://www.youtube.com/watch?v=ujdjXRdETBI - Gas Leakage Detector with SMS Alert Using GSM Module & Arduino
 
