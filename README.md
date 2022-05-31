@@ -27,6 +27,10 @@ Fig. 4: Finished Product
 
 ![102556897_260982205216750_2801925561696387072_n](https://user-images.githubusercontent.com/82814920/116664110-97c9ba00-a9ca-11eb-8cd7-0ae3b84d4737.jpg)
 
+Fig. 5: Project Proponents
+
+![101891497_3370771849600517_4888014640769925120_n](https://user-images.githubusercontent.com/82814920/171135513-dd96ef35-b653-4a55-8235-2cf5cdae60a8.jpg)
+
 Reference: https://www.youtube.com/watch?v=ujdjXRdETBI - Gas Leakage Detector with SMS Alert Using GSM Module & Arduino
 
 © 2020, Jen Beatrix Maristela (aka jenbeatrix), All rights reserved.
