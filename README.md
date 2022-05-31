@@ -11,17 +11,19 @@ Also, the user or owner of the house receives a text indicating that an LPG Leak
 
 ![LPG Detector 3](https://user-images.githubusercontent.com/82814920/170656844-7c0eb2e4-dba4-4259-958c-eb0872ad1c7d.gif)
 
-Testing Stage:
+Fig. 1: Testing Stage
 
 ![20200207_203859](https://user-images.githubusercontent.com/82814920/171134280-dab55419-3135-4c22-9364-75e1c786203d.jpg)
 
-Building stage:
+Fig. 2: Building stage
 
 ![20200226_203223](https://user-images.githubusercontent.com/82814920/171134412-843d9cbb-105b-4259-8506-eecb051753d2.jpg)
 
-Assembling stage:
+Fig. 3: Assembling stage
 
 ![20200229_123406](https://user-images.githubusercontent.com/82814920/171134606-4d0c0bb7-d05a-4d09-9ed4-9674352ea7c8.jpg)
+
+Fig. 4: Finished Product
 
 ![102556897_260982205216750_2801925561696387072_n](https://user-images.githubusercontent.com/82814920/116664110-97c9ba00-a9ca-11eb-8cd7-0ae3b84d4737.jpg)
 
