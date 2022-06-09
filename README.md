@@ -11,6 +11,10 @@ Also, the user or owner of the house receives a text indicating that an LPG Leak
 
 ![LPG Detector 3](https://user-images.githubusercontent.com/82814920/170656844-7c0eb2e4-dba4-4259-958c-eb0872ad1c7d.gif)
 
+Fig. 1: Circuit design
+
+![image](https://user-images.githubusercontent.com/82814920/172774338-3fbaa3d0-ead0-4e13-9fed-b9f7c4b51a98.png)
+
 Fig. 1: Testing Stage
 
 ![20200207_203859](https://user-images.githubusercontent.com/82814920/171134280-dab55419-3135-4c22-9364-75e1c786203d.jpg)
